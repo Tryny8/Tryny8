@@ -1,14 +1,11 @@
 ## Bonjour, je suis Antony 👋
-🖥️ Passionné d’informatique, je code en Python depuis plusieurs années en autodidacte,
-et j’ai intensifié mon apprentissage depuis 2 ans dans une démarche de professionnalisation.
-
-🦀 Je me forme activement via la plateforme Boot.dev pour consolider mes compétences et structurer mes acquis.
-
-🔧 Projets en cours ou terminés :
-  - ⚙️ [Simulateur de collisions physiques 1D] Linea_Simulation  – avec Pygame / terminal - terminé
-  - 📦 [Générateur de modèles de mails automatisés] Generator_mail_CLI – Python + logique modulaire - En cours (Répertoire NonPublic
-
-🐦 Vous pouvez me contacter sur Linkdin
+  🖥️ Passionné d’informatique, je code en Python depuis plusieurs années en autodidacte,
+  et j’ai intensifié mon apprentissage depuis 2 ans dans une démarche de professionnalisation.  
+  🦀 Je me forme activement via la plateforme Boot.dev pour consolider mes compétences et structurer mes acquis.  
+  🔧 Projets en cours ou terminés :  
+    - ⚙️ [Simulateur de collisions physiques 1D] Linea_Simulation  – avec Pygame / terminal - terminé  
+    - 📦 [Générateur de modèles de mails automatisés] Generator_mail_CLI – Python + logique modulaire - En cours (Répertoire NonPublic)  
+  🐦 Vous pouvez me contacter sur Linkdin  
 <!--
 **Tryny8/Tryny8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
